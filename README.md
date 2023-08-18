@@ -1,3 +1,4 @@
+- # i made my first site on netlify ! ! ! !
 - this person is currently alive
 - is trans 🏳️‍⚧️
 - owns the channel called: https://youtube.com/@Vuzion
